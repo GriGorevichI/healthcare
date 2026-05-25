@@ -20,7 +20,7 @@ This project analyzes **55,000+ patient records** from a healthcare system (2019
 
 > *Power BI Pro license required.* 
 
-📁 **[Download .PBIX File](./healthcare_dashboard.pbix)**
+📁 **[Download .PBIX File](./powerbi/healthcare_dashboard.pbix)**
 
 Check out SQL queries here: [sql folder](/healthcare/sql/02_healthcare_analysis.sql)
 
