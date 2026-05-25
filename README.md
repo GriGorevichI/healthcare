@@ -3,7 +3,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC)
 
-![healthcare dash](/images/healthcare%20dash.png)
+![healthcare dash](/image/healthcare%20dash.png)
 
 # Introduction 
 
