@@ -29,13 +29,13 @@ Check out SQL queries here: [sql folder](/healthcare/sql/02_healthcare_analysis.
 | Tool | Purpose |
 |------|---------|
 | **Python 3.9** | Data cleaning and preprocessing |
-| **Pandas** | Data manipulation and analysis |
+| **Pandas** | Data cleaning and preprocessing |
 | **Jupyter Notebook** | Interactive data cleaning environment |
 | **PostgreSQL 16** | Data storage and SQL querying |
 | **Power BI Desktop** | Dashboard creation and visualization |
 | **Power BI Service** | Dashboard sharing and collaboration |
 | **Git & GitHub** | Version control and project hosting |
-| **VS Code** | SQL and Python development |
+| **VS Code** | SQL and Python environment |
 
 # The analysis
 
