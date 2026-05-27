@@ -234,7 +234,7 @@ WITH age_groups AS(
 
 | Finding | Insight |
 |---------|---------|
-| **Cancer** ranks #1 in 2019 and 2022 | Consistent high prevalence — requires ongoing investment |
+| **Cancer** ranks #1 in 2019 and 2022 | Requires ongoing investment |
 | **Obesity** surged to #1 in 2020 (476 cases, 4.15%) | Post-lockdown lifestyle impacts |
 | **Arthritis** dominates 2021 and 2023 | Chronic condition management needed |
 | **Diabetes** appears in top 3 every year | Persistent high demand — stable resource allocation |
@@ -251,16 +251,6 @@ WITH age_groups AS(
 | Diabetes | 2020 | 435 cases | Consistently in top 3 every year |
 | Asthma | 2021 | 408 cases | One-year spike, then dropped |
 | Hypertension | 2019, 2023 | 408 cases | Recurring every 2-3 years |
-
-### Recommendations by Condition
-
-| Condition | Finding | Recommendation |
-|-----------|---------|----------------|
-| Cancer | Biennial spike pattern (2019, 2022) | Align screening campaigns with peak years |
-| Obesity | Peaked in 2020 (476 cases) | Post-pandemic lifestyle programs, ongoing monitoring |
-| Arthritis | Increasing frequency (2021→2023) | Expand chronic care management, physical therapy resources |
-| Diabetes | In top 3 every year (289–435 cases) | Stable annual investment, prevention programs |
-| Asthma | Single-year spike (2021) | Investigate environmental factors for that year |
 
 
 # Challenges 
